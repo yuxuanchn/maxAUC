@@ -6,7 +6,7 @@ including bias correction and interval estimation are provided as well.
 
 ## Installation
 
-devtools::install_github("OliviaClare/maxAUC")
+devtools::install_github("yuxuanchn/maxAUC")
 
 ## Author
 Yuxuan Chen <yuxuan.chen@emory.edu>
